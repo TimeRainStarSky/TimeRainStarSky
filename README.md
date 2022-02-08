@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![TimeRainStarSky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimeRainStarSky)](https://github.com/anuraghazra/github-readme-stats)
+[![TimeRainStarSky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
