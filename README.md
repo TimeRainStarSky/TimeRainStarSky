@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 时雨◎星空 TimeRainStarSky
 <!--
 **TimeRainStarSky/TimeRainStarSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+  <tr>
+    <td>访问量</td>
+    <td><img src="https://profile-counter.glitch.me/TimeRainStarSky/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
+[![TimeRainStarSky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimeRainStarSky)](https://github.com/anuraghazra/github-readme-stats)
