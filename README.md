@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true">
     <img alt="会变亮变暗的GitHub状态！" src="https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true">
   </picture>
