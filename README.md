@@ -27,3 +27,14 @@ Here are some ideas to get you started:
     <img alt="会变亮变暗的GitHub状态！" src="https://github-readme-stats.vercel.app/api?username=TimeRainStarSky&show_icons=true">
   </picture>
 </div>
+
+## 联系方式
+- QQ群组：[211414032](https://jq.qq.com/?k=QU1xGLEB)
+- GitHub：[TimeRainStarSky](https://github.com/TimeRainStarSky)
+- 酷安：[时雨丶星空](http://www.coolapk.com/u/2650948)
+- QQ：[2536554304](https://qm.qq.com/cgi-bin/qm/qr?k=x8LtlP8vwZs7qLwmsbCsyLoAHy7Et1Pj)
+- Telegram：[TimeRainStarSky](https://t.me/TimeRainStarSky)
+
+## 赞助支持
+- 爱发电：<https://afdian.net/@TimeRainStarSky>
+- Partme：<https://partme.com/TimeRainStarSky>
