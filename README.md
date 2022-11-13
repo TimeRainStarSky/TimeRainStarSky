@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ## 赞助支持
 - 爱发电：<https://afdian.net/a/TimeRainStarSky>
 - Partme：<https://partme.com/TimeRainStarSky>
+- 感谢名单：<https://github.com/TimeRainStarSky/SponsorList>
