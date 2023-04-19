@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 </div>
 
 ## 联系方式
-- QQ群组：[211414032](https://jq.qq.com/?k=QU1xGLEB)
+- QQ 群组：
+1. [659945190](https://jq.qq.com/?k=VBuHGPv3)
+2. [1027131254](https://jq.qq.com/?k=Af0pTDHU)
+3. [300714227](https://jq.qq.com/?k=V2xVpaR7)
 - GitHub：[TimeRainStarSky](https://github.com/TimeRainStarSky)
 - 酷安：[时雨丶星空](http://www.coolapk.com/u/2650948)
 - QQ：[2536554304](https://qm.qq.com/cgi-bin/qm/qr?k=x8LtlP8vwZs7qLwmsbCsyLoAHy7Et1Pj)
